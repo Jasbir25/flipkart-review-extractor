@@ -9,7 +9,7 @@ This Python project uses [Playwright](https://playwright.dev) to scrape reviews 
 - Skips the "READ MORE" link and retrieves the full review body.
 
 ## Prerequisites
-- Python 3.9 or higher
+- Python 3.9
 - Playwright library for Python
 
 ## Installation
@@ -17,7 +17,7 @@ This Python project uses [Playwright](https://playwright.dev) to scrape reviews 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/flipkart-review-extractor.git
+   git clone https://github.com/Jasbir25/flipkart-review-extractor.git
    cd flipkart-review-extractor
    ```
 
